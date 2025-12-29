@@ -1,56 +1,87 @@
+<h1 >Hey, I’m Vishwajit Patil 👋</h1>
+
+### Backend Engineer · Game Developer · AI
+
+<p>
+I enjoy building backend systems that actually hold up under real-world use.<br>
+Most of my work revolves around correctness, scalability, and understanding why systems fail.
+</p>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajit-rajput-dev)
+[![Email](https://img.shields.io/badge/Email-vishwajitpatil2907%40outlook.com-gray?style=flat&logo=gmail&logoColor=white)](mailto:vishwajitpatil2907@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vishwajit--29-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vishwajit-29)
+
+</div>
+
+---
+
+## About Me
+
+I’m a backend-focused developer who likes working close to the **core logic of systems** —  
+databases, APIs, authentication, concurrency, and performance bottlenecks.
+
+I don’t chase buzzwords.  
+I prefer understanding *why* something works before adding complexity.
+
+Outside backend work, I explore **game development** as a creative space to think about:
+- real-time state
+- performance constraints
+- event-driven logic
+
+It keeps my engineering instincts sharp.
+
+---
+
+## Tech I Work With
+
+<div align="center">
+
+### Core Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Backend & Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## GitHub at a Glance
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f2027,203a43,2c5364&height=150&section=header&text=Vishwajit%20Ishwar%20Patil&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thor2907&theme=github_dark" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineer-Java%20%2F%20Spring%20Boot-blue?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems-Thinker-darkgreen?style=for-the-badge&logo=compas&logoColor=white" />
-</p>
-
-<p align="center">
-  🚀 Building backend systems prioritizing <b>correctness, scalability, and real-world constraints.</b><br/>
-  🎮 Using game development as a creative lab for real-time logic and performance design.
-</p>
+![snake gif](https://github.com/Thor2907/Thor2907/blob/output/github-snake-dark.svg)
 
 ---
 
-### 🧠 Engineering Identity
+## What I’m Learning Right Now
 
-- ☕ **Backend Mastery**: Primarily working with **Java and Spring Boot**.
-- ⚙️ **Core Focus**: Data consistency, concurrency, and high-reliability systems.
-- 🔬 **Learning Style**: Driven by documentation, research papers, and deep-system debugging.
-- 🕹️ **Game Dev**: Treating it as **serious engineering practice** to sharpen performance instincts.
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Backend** | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![REST](https://img.shields.io/badge/-REST_APIs-black?style=flat-square) ![Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+- Better Spring Boot patterns (transactions, events, failure handling)
+- Database performance (indexes, query plans, schema trade-offs)
+- System design beyond toy examples
+- Practical GenAI (local models, RAG, trade-offs)
 
 ---
 
-### 🚀 Featured Work
 
-- 📦 **[Inventory Management System](https://github.com/Thor2907/IMS)**: Transactional backend with RBAC & concurrency control.
-- 📍 **[GeoTracker](https://github.com/Thor2907/Geotracker)**: Scalable geo-fencing attendance system.
-- 🤖 **[AI-Powered Debate Platform](https://github.com/Thor2907/AI-Powered-Debate-Platform)**: Researching RAG and LLM integrations.
+If something here looks interesting, feel free to reach out.
+I’m always open to good technical conversations.
 
----
-
-### 📈 Consistency & Grit (The Snake)
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
----
-
-### 📫 Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/vishwajit-rajput-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vishwajitpatil2907@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
